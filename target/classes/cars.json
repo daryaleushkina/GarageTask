@@ -1,0 +1,21 @@
+[ {
+  "model" : "2106",
+  "brand" : "LADA",
+  "year" : "1999"
+}, {
+  "model" : "Focus",
+  "brand" : "Ford",
+  "year" : "2010"
+}, {
+  "model" : "Logan",
+  "brand" : "Renault",
+  "year" : "2019"
+}, {
+  "model" : "X6",
+  "brand" : "BMW",
+  "year" : "2018"
+}, {
+  "model" : "A8",
+  "brand" : "Audi",
+  "year" : "2017"
+}]
